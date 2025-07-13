@@ -1,3 +1,8 @@
+---
+layout: default
+title: Data Science Portfolio
+---
+
 # Data Science Portfolio
 ---
 ## Machine learning
